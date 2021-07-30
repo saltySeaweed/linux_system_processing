@@ -1,2 +1,2 @@
 # linux_system_processing
-learning basic about language c++
+learning basic about language c
